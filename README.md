@@ -93,13 +93,13 @@ https://microservices.io/patterns/observability/distributed-tracing.html
 ## React JS
 
 ## AWS Concepts 
-EC2 - Elatic Cloud Computing
-S3 - Simple Storage Service
-Lamda - Servless computing
-ALB - AWS Load Balancer
-EKS - Elastic Kubernetes Services
-ECS - Elastic Container Service
-Route 53 - DNS
+EC2 - Elatic Cloud Computing <br/>
+S3 - Simple Storage Service <br/>
+Lamda - Servless computing <br/>
+ALB - AWS Load Balancer <br/>
+EKS - Elastic Kubernetes Services <br/>
+ECS - Elastic Container Service <br/>
+Route 53 - DNS <br/>
 
 ## Docker
 
