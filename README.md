@@ -17,7 +17,7 @@ Encapsulation <br/>
 https://www.javatpoint.com/features-of-java
 
 ## Java Collections
-
+https://static.javatpoint.com/images/java-collection-hierarchy.png
 
 ## Java 8 
 
