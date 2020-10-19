@@ -84,9 +84,13 @@ https://microservices.io/patterns/observability/distributed-tracing.html
 
 ## Scalability
 
+## System Design
+
 ## JMS - IBMMQ, RabbitMQ, Kafka, Redis
 
 ## RDBMS - Oracle and MSSQL
+
+## Transactional DB operations
 
 ## NoSQL - MongoDB abd Cassandra
 
