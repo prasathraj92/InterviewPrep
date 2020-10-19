@@ -1,9 +1,9 @@
 # InterviewPrep
-This project will consist of material and topic related to Experienced Java developer Role
+This project will consist of material and topic related to Experienced Java developer Role <br/>
 
-Inspired By - Deepak Vadgama
-https://github.com/DeepakVadgama/java-interview
-https://deepakvadgama.com/
+Inspired By - Deepak Vadgama <br/>
+https://github.com/DeepakVadgama/java-interview <br/>
+https://deepakvadgama.com/ <br/>
 
 ## Core Java
 Basic concepts of OOPs are:
