@@ -82,6 +82,8 @@ https://www.javatpoint.com/New-features-in-java
 ### Distributed Tracing
 https://microservices.io/patterns/observability/distributed-tracing.html
 
+## Scalability
+
 ## JMS - IBMMQ, RabbitMQ, Kafka, Redis
 
 ## RDBMS - Oracle and MSSQL
@@ -89,3 +91,16 @@ https://microservices.io/patterns/observability/distributed-tracing.html
 ## NoSQL - MongoDB abd Cassandra
 
 ## React JS
+
+## AWS Concepts 
+EC2 - Elatic Cloud Computing
+S3 - Simple Storage Service
+Lamda - Servless computing
+ALB - AWS Load Balancer
+EKS - Elastic Kubernetes Services
+ECS - Elastic Container Service
+Route 53 - DNS
+
+## Docker
+
+## Kubernetes
