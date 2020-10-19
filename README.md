@@ -1,6 +1,10 @@
 # InterviewPrep
 This project will consist of material and topic related to Experienced Java developer Role
 
+Inspired By - Deepak Vadgama
+https://github.com/DeepakVadgama/java-interview
+https://deepakvadgama.com/
+
 ## Core Java
 
 ## Java Collections
