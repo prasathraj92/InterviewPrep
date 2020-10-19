@@ -6,10 +6,22 @@ https://github.com/DeepakVadgama/java-interview
 https://deepakvadgama.com/
 
 ## Core Java
+Basic concepts of OOPs are:
+
+Object <br/>
+Class <br/>
+Inheritance <br/>
+Polymorphism <br/>
+Abstraction <br/>
+Encapsulation <br/>
+https://www.javatpoint.com/features-of-java
 
 ## Java Collections
 
+
 ## Java 8 
+
+## Java Generics
 
 ## Java Data Structures and Algorithms
 
