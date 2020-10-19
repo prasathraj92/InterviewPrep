@@ -1,42 +1,55 @@
 # InterviewPrep
 This project will consist of material and topic related to Experienced Java developer Role
 
-# Core
+## Core Java
 
-# Java Collections
+## Java Collections
 
-# Java 8 
+## Java 8 
 
-# Java Data Structures and Algorithms
+## Java Data Structures and Algorithms
 
-# Java Memory model
+## Java Memory model
 
-# Java Execution Engine
+## Java Execution Engine
 
-# Latest Java Version and Features
+## Java MultiThreading
 
-# Spring Framework
+## Java Concurrency
 
-# Spring Boot
+## Latest Java Version and Features
 
-# How Springboot works
+## Spring Framework
 
-# How tomcat works
+## Spring Boot
 
-# Microservice Architecture
+## How Springboot works
 
-# Netflix OSS
+## How tomcat works
 
-# API Gateway - apigee, AWS API Gateway
+## Microservice Architecture
 
-# Design Patterns
+## Netflix OSS
 
-# Design Principle (SOLID)
+## API Gateway - apigee, AWS API Gateway
 
-# Micro Service Design Patterns
+## Design Patterns
 
-## Bulk Head Pattern
+## Design Principle (SOLID)
 
-## Circuit Breaker Pattern
+## Micro Service Design Patterns
 
-## Distributed Tracing
+### Bulk Head Pattern
+
+### Circuit Breaker Pattern
+
+### Distributed Tracing
+https://microservices.io/patterns/observability/distributed-tracing.html
+
+## JMS - IBMMQ, RabbitMQ, Kafka, Redis
+
+## RDBMS - Oracle and MSSQL
+
+## NoSQL - MongoDB abd Cassandra
+
+## React JS
