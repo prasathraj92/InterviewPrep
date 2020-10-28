@@ -106,6 +106,8 @@ ECS - Elastic Container Service <br/>
 Route 53 - DNS <br/>
 
 ## Docker
+Training Materials <br />
+https://github.com/devopsschool-training-notes/doc-k8-verizon-sept-batch2-2020 <br />
 https://www.devopsschool.com/lms/ <br />
 https://www.devopsschool.com
 
