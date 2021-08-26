@@ -28,3 +28,11 @@
 8. Default no of threads in Tomcat?
 9. Different types of annotation?
 10. How to do some operation after springboot is started?
+
+**Angular**
+1. List of commands ng serve, ng build, npm install, ng new angularApp, ng generate component test
+2. Lifecycle hooks in Angular - ngOnChanges, ngOnInit, ngDoCheck, ngOnDestroy, content/view - ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit, ngAfterViewChecked
+3. Observables vs Promises
+4. Directives in Angular
+5. Data sharing between components
+6. 
