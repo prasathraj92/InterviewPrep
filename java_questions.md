@@ -12,7 +12,10 @@
 10. Java 8 questions on Stream, Lambda exp, Terminal and Intermediate operations
 11. Difference between override and overload?
 12. Can u override a private or static method?
-13. Design pattern questions
+13. Executor service
+14. Callable Feature
+15. Design pattern questions
+16. Resilliency
 
 **Spring**
 1. What is spring?
